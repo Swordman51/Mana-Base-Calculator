@@ -60,5 +60,29 @@ lands = {
         "Hinterland Harbor" : "Green Blue",
         "Sulfur Falls" : "Blue Red",
         "Clifftop Retreat" : "Red White",
+        
+    ##Battle-bond Lands
+        "Sea of Clouds" : "Blue White",
+        "Morphic Pool" : "Blue Black",
+        "Luxury Suite" : "Black Red",
+        "Spire Garden" : "Red Green",
+        "Bountiful Promenade" : "Green White",
+        "Vault of Champions" : "White Black",
+        "Undergrowth Stadium" : "Black Green",
+        "Rejuvenating Springs" : "Green Blue",
+        "Training Center" : "Blue Red",
+        "Spectator Seating" : "Red White",
+        
+    ##True Duals
+        "Tundra" : "Blue White",
+        "Underground Sea" : "Blue Black",
+        "Badlands" : "Black Red",
+        "Taiga" : "Red Green",
+        "Savannah" : "Green White",
+        "Scrubland" : "White Black",
+        "Bayou" : "Black Green",
+        "Tropical Island" : "Green Blue",
+        "Volcanic Island" : "Blue Red",
+        "Plateau" : "Red White",
          }
     
