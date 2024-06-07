@@ -1,6 +1,8 @@
+from landDatabase import *
+
 def mysplit(s):
     temp = s
-    print(temp)
+    ##print(temp)
     number = 0
     name = ""
     for x in temp:
@@ -20,6 +22,17 @@ def multiline_input(sentinel=''):
         yield inp.split()
         
 ##copied code from internet
+
+def gatherMana(list):
+    keys = list.keys()
+    values = list.values()
+    for i in keys:
+        ##print(i)
+        if i in lands:
+            print(list.get(i))
+            
+           
+        
 
 
 numbers = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', 

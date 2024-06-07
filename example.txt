@@ -1,70 +1,46 @@
-1 Ashling, Flame Dancer (MH3) 115 *F*
-1 Aether Sting (UDS) 76
-1 Angrath's Marauders (XLN) 132
+1 Ashling, Flame Dancer (MH3) 115
 1 Arc Blade (TSR) 152
-1 Arc Lightning (KTK) 97
-1 Backdraft Hellkite (C19) 23
-1 Blasphemous Act (CMR) 162
-1 Blazing Volley (AKH) 119
-1 Blisterspit Gremlin (IKO) 108
-1 Brash Taunter (M21) 133
-1 Cathartic Reunion (IKO) 110
-1 Chain Lightning (JMP) 302
-1 Chandra's Fury (ORI) 136
-1 Chandra's Incinerator (M21) 136
-1 Cleansing Wildfire (ZNR) 137
-1 Curse of the Pierced Heart (ISD) 138
-1 Dockside Extortionist (C19) 24
-1 Double Vision (M21) 142
+1 Backdraft Hellkite (2X2) 103
+1 Blasphemous Act (PIP) 188 *F*
+1 Blazing Volley (IKO) 107
+1 Brash Taunter (MKC) 148
+1 Cathartic Reunion (KLD) 109
+1 Chain Lightning (DMR) 113
+1 Chandra's Fury (M13) 124
+1 Chandra's Incinerator (M21) 136 *F*
+1 Dockside Extortionist (2X2) 360
+1 Double Vision (NCC) 267
 1 Electrickery (RTR) 93
-1 Faithless Looting (C21) 168
-1 Fiery Intervention (DOM) 118
+1 Faithless Looting (M3C) 211
+1 Fiery Intervention (J22) 531
 1 Firebolt (J22) 532
-1 Geistflame Reservoir (MID) 142
-1 Geomancer's Gambit (MH1) 125
-1 Ghirapur Aether Grid (ORI) 148
-1 Gibbering Fiend (SOI) 161
-1 Glittering Stockpile (SNC) 107
-1 Grapeshot (TSR) 166
-1 Guttersnipe (C19) 145
-1 Hissing Iguanar (ALA) 104
-1 Homing Lightning (GTC) 96
-1 Immolation Shaman (RNA) 106
-1 Improvised Weaponry (AFR) 150
+1 Geistflame Reservoir (DBL) 142 *F*
+1 Glittering Stockpile (OTC) 167
+1 Grapeshot (DMR) 125
+1 Guttersnipe (OTC) 169
+1 Improvised Weaponry (J22) 558
 1 Inflame (PCY) 91
-1 Jeska's Will (CMR) 187
-1 Lava Axe (M19) 150
-1 Maddening Hex (AFC) 32
-1 Magic Missile (AFR) 154
-1 Magus of the Wheel (C19) 149
+1 Jeska's Will (MKC) 156
+1 Magic Missile (PLST) AFR-154
+1 Magus of the Wheel (NCC) 271
 1 Molten Blast (ZNR) 149
 32 Mountain (ONE) 270 *F*
-1 Nyx Lotus (PTHB) 235p
-1 Primal Amulet // Primal Wellspring (XLN) 243
+1 Nyx Lotus (THB) 235
 1 Radiating Lightning (DOM) 138
-1 Rain of Embers (RAV) 138
-1 Relic Amulet (ZNR) 247
-1 Rockslide Sorcerer (ZNR) 154
-1 Sawblade Scamp (ONE) 147
 1 Scent of Cinder (UDS) 96
 1 Searing Barrage (ELD) 140
-1 Seismic Shudder (ZEN) 147
-1 Seize the Spoils (KHM) 149
-1 Shock (M21) 159
-1 Sol Ring (C20) 252
-1 Solphim, Mayhem Dominus (ONE) 354 *F*
+1 Seize the Spoils (GN3) 86
+1 Shock (MKM) 144
+1 Sol Ring (M3C) 305
+1 Solphim, Mayhem Dominus (ONE) 150 *F*
 1 Soul Sear (M21) 160
-1 Spitting Earth (MIR) 193
-1 Squee, Goblin Nabob (C19) 152
+1 Spitting Earth (POR) 150
 1 Storm-Kiln Artist (STX) 115
-1 Stuffy Doll (TSR) 274
-1 Swiftfoot Boots (KHC) 105
-1 Syr Carah, the Bold (ELD) 145
-1 Thermo-Alchemist (MID) 164
+1 Stuffy Doll (CLB) 875
+1 Swiftfoot Boots (PLST) M12-219
 1 Torbran, Thane of Red Fell (PELD) 147p
-1 Turn to Slag (M21) 168
-1 Unexpected Windfall (AFR) 164
-1 Urabrask // The Great Work (MOM) 299
-1 Vandalblast (RTR) 111
-1 Weaver of Lightning (JMP) 371
+1 Turn to Slag (M13) 153
+1 Unexpected Windfall (PIP) 193
+1 Urabrask // The Great Work (MOM) 169 *F*
+1 Vandalblast (OTC) 183
 
