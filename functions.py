@@ -1,5 +1,13 @@
 from landDatabase import *
 
+white = 0
+green = 0
+blue = 0
+red = 0
+black = 0
+swamp = 0
+colorless = 0
+
 def mysplit(s):
     temp = s
     ##print(temp)
@@ -25,11 +33,40 @@ def multiline_input(sentinel=''):
 
 def gatherMana(list):
     keys = list.keys()
-    values = list.values()
+
+    global white
+    global red
+    global green
+    global blue
+    global black
+    global colorless
+    
     for i in keys:
         ##print(i)
         if i in lands:
-            print(list.get(i))
+            num = int(list.get(i))
+            for x in lands.get(i).split(" "):
+                ##print(x)
+                if x == 'Red':
+                    red += num
+                    ##print(red)
+                    ##print("updated red")
+                elif x == 'White':
+                    white += num
+                elif x == 'Colorless':
+                    colorless += num
+                elif x == 'Green':
+                    green += num
+                elif x == 'Blue':
+                    blue += num
+                elif x == 'Black':
+                    black += num
+            ##number of lands
+    ##print(red)
+            
+            
+            
+
             
            
         
