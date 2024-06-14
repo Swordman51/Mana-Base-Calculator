@@ -24,11 +24,12 @@ for x, i in formatted:
 
 gatherMana(Format)
 
-print(functions.red)
-print(functions.white)
+##print(functions.red)
+##print(functions.white)
         
 
-
+calcAverageLands(2)
+##print(random.randrange(0, 100, 1))
 
 
 ## For MDFC Lands only put front face

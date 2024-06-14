@@ -1,4 +1,5 @@
 from landDatabase import *
+import random
 
 white = 0
 green = 0
@@ -63,6 +64,131 @@ def gatherMana(list):
                     black += num
             ##number of lands
     ##print(red)
+    
+    
+def calcAverageLands(numTurns):
+    AverageWhite = 0
+    AverageRed = 0
+    AverageBlack = 0
+    AverageBlue = 0
+    AverageGreen = 0
+    AverageColorless = 0
+    
+    for x in range(1000):
+        
+        total = 99
+        whitetemp = white
+        redtemp = red
+        blacktemp = black
+        bluetemp = blue
+        greentemp = green
+        colorlesstemp = colorless
+    
+        other = total - (white + red + black + blue + green + colorless)
+    
+        
+    
+    
+        for z in range(numTurns + 7):
+        
+            mana = [whitetemp / total, 
+                    redtemp / total,
+                    blacktemp / total,
+                    bluetemp / total,
+                    greentemp / total,
+                    colorlesstemp / total,
+                    other / total]
+            
+            temp = [""] * 100
+            whiteProb = round(mana[0] * 100)
+            redProb = round(mana[1] * 100)
+            blackProb = round(mana[2] * 100)
+            blueProb = round(mana[3] * 100)
+            greenProb = round(mana[4] * 100)
+            colorlessProb = round(mana[5] * 100)
+            otherProb = round(mana[6] * 100)
+            
+            print(redProb + other)
+           
+            
+            first = whiteProb
+            second = whiteProb + redProb
+            third = whiteProb + redProb + blackProb
+            fourth = whiteProb + redProb + blackProb + blueProb
+            fifth = whiteProb + redProb + blackProb + blueProb + greenProb
+            sixth = whiteProb + redProb + blackProb + blueProb + greenProb + colorlessProb
+            seventh = whiteProb + redProb + blackProb + blueProb + greenProb + colorlessProb + otherProb
+
+
+            for y in range(0, first):
+                temp[y] = "white"         
+            for a in range(first, second):
+                temp[a] = "red" 
+            for b in range(second, third):
+                temp[b] = "black"
+            for c in range(third, fourth):
+                temp[c] = "blue"
+            for d in range(fourth, fifth):
+                temp[d] = "green"
+            for e in range(fifth, sixth):
+                temp[e] = "colorless"
+            for f in range(sixth, seventh):
+                temp[f] = "other"
+            
+                
+            index = random.randrange(0, 100, 1)
+            
+            if temp[index] == "white":
+                AverageWhite += 1
+                whitetemp -= 1
+                total -= 1
+            elif temp[index] == "red":
+                AverageRed += 1
+                redtemp -= 1
+                total -= 1
+            elif temp[index] == "black":
+                AverageBlack += 1
+                blacktemp -= 1
+                total -= 1
+            elif temp[index] == "blue":
+                AverageBlue += 1
+                bluetemp -= 1
+                total -= 1
+            elif temp[index] == "green":
+                AverageGreen += 1
+                greentemp -= 1
+                total -= 1
+            elif temp[index] == "colorless":
+                AverageColorless += 1
+                colorlesstemp -= 1
+                total -= 1
+            elif temp[index] == "other":
+                other -= 1
+                total -= 1
+     
+    
+    
+    
+    
+    
+    
+    
+            
+    AverageWhite /= 1000
+    AverageRed /= 1000
+    AverageBlack /= 1000
+    AverageBlue /= 1000
+    AverageGreen /= 1000
+    AverageColorless /= 1000
+    
+    
+    
+    print("Your Average Number of Mountains avaliable in " + str(numTurns) + " turns is " + str(AverageRed))   
+        
+        
+        
+        
+         
             
             
             
