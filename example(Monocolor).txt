@@ -1,0 +1,69 @@
+1 Ashling, Flame Dancer (MH3) 367
+1 Abrade (CMM) 203
+1 Arcane Signet (OTC) 252
+1 Birgi, God of Storytelling // Harnfel, Horn of Bounty (KHM) 311
+1 Bitter Reunion (OTC) 156
+1 Blasphemous Act (C21) 159
+1 Braid of Fire (CSP) 78
+1 Chain Reaction (C21) 161
+1 Chandra's Incinerator (M21) 136
+1 Change of Fortune (VOW) 150
+1 Chaos Warp (PLST) C17-131
+1 Chrome Mox (2XM) 240
+1 Containment Construct (NEO) 243
+1 Crimson Wisps (SHM) 88
+1 Dockside Extortionist (C19) 24
+1 Expedite (OGW) 108
+1 Faithless Looting (CMM) 642
+1 Fury Storm (C18) 22
+1 Grapeshot (DMR) 125
+1 Gut Shot (PLST) MM2-117
+1 Guttersnipe (CMM) 229
+1 Increasing Vengeance (C19) 147
+1 Invasion of Kaldheim // Pyre of the World Tree (MOM) 145
+1 Jeska's Will (CMR) 187
+1 Jeweled Lotus (CMM) 396
+1 Kessig Flamebreather (VOW) 164
+1 Koth of the Hammer (DDI) 44 *F*
+1 Leyline Tyrant (PZNR) 147p
+1 Liquimetal Torque (MH2) 428
+1 Mana Crypt (EMA) 225
+1 Mana Geyser (5DN) 75
+1 Mind Stone (40K) 245
+1 Mizzix's Mastery (OTC) 175
+33 Mountain (SUM) 303
+1 Mox Opal (MM2) 223
+1 Neheb, the Eternal (MKC) 158
+1 Nykthos, Shrine to Nyx (THS) 223
+1 Overmaster (DMR) 327
+1 Past in Flames (WHO) 565 *F*
+1 Reckless Impulse (VOW) 174
+1 Reiterate (TSP) 175
+1 Renegade Tactics (CMR) 195
+1 Repercussion (UDS) 95
+1 Reverberate (40K) 207
+1 Ruby Medallion (MH3) 295
+1 Runaway Steam-Kin (GRN) 115
+1 Scavenger Grounds (MKC) 287
+1 Seething Song (9ED) 216
+1 Shattering Spree (PLST) GK1-34
+1 Sol Ring (C21) 263
+1 Spinerock Knoll (CLB) 916
+1 Storm-Kiln Artist (OTC) 181
+1 Thought Vessel (PLG22) 2 *F*
+1 Thrill of Possibility (ELD) 146
+1 Tibalt's Trickery (KHM) 360
+1 Torbran, Thane of Red Fell (ELD) 147
+1 Treasonous Ogre (CNS) 36
+1 Twinferno (DMU) 149
+1 Underworld Breach (PTHB) 161p
+1 Urabrask // The Great Work (MOM) 169
+1 Valakut Awakening // Valakut Stoneforge (ZNR) 174
+1 Valakut Exploration (ZNR) 303
+1 Vandalblast (OTC) 183
+1 Wandering Archaic // Explore the Vastlands (STX) 6
+1 War Room (PCMR) 361p
+1 Wayfarer's Bauble (SCD) 287
+1 Wheel of Misfortune (CMR) 211
+1 Wild Magic Surge (CLB) 206
+

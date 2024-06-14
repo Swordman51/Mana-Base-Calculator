@@ -1,13 +1,24 @@
 lands = {
+    
     ## Basic Lands
          "Plains (DMU) 262" : "White",
+         "Plains (UND) 87" : "White",
          "Island (OTJ) 280" : "Blue",
+         "Island (UND) 89" : "Blue",
+         "Snow-Covered Island (MH1) 251" : "Blue",
          "Wastes (M3C) 408" : "Colorless",
          "Mountain (M14) 242" : "Red",
+         "Mountain (SUM) 303" : "Red",
          "Mountain (ONE) 270 *F*" : "Red",
+         "Mountain (UST) 215" : "Red",
          "Forest (WOE) 276" : "Green",
+         "Forest (UST) 216" : "Green",
          "Swamp (OTJ) 282" : "Black",
+         "Swamp (UST) 214" : "Black",
          
+    ## Artifact Lands
+         "Ancient Den (C21) 276" : "White",
+            
     ## Pain Lands    
         "Adarkar Wastes (M3C) 316" : "Colorless White Blue",
         "Underground River (M3C) 400" : "Colorless Black Blue",

@@ -10,8 +10,6 @@ print("Welcome to the Magic Manabase Calculator" + '\n')
 print('\n' + "Please enter your list here using \"Copy for Moxfield\"" +"\n")
 
 
-
-
 test = list(multiline_input())
 
 formatted = [mysplit(s) for s in test]
@@ -23,13 +21,11 @@ for x, i in formatted:
 
 
 gatherMana(Format)
+ 
+print('\n' + "Please enter the number of turns you would like to calculate for" + '\n')
+turns = input()
+calcAverageLands(int(turns))
 
-##print(functions.red)
-##print(functions.white)
-        
-
-calcAverageLands(2)
-##print(random.randrange(0, 100, 1))
 
 
 ## For MDFC Lands only put front face

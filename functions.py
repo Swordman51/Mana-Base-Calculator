@@ -73,8 +73,9 @@ def calcAverageLands(numTurns):
     AverageBlue = 0
     AverageGreen = 0
     AverageColorless = 0
+    numIterations = 10000
     
-    for x in range(1000):
+    for x in range(numIterations):
         
         total = 99
         whitetemp = white
@@ -86,9 +87,7 @@ def calcAverageLands(numTurns):
     
         other = total - (white + red + black + blue + green + colorless)
     
-        
-    
-    
+   
         for z in range(numTurns + 7):
         
             mana = [whitetemp / total, 
@@ -100,15 +99,15 @@ def calcAverageLands(numTurns):
                     other / total]
             
             temp = [""] * 100
-            whiteProb = round(mana[0] * 100)
-            redProb = round(mana[1] * 100)
-            blackProb = round(mana[2] * 100)
-            blueProb = round(mana[3] * 100)
-            greenProb = round(mana[4] * 100)
-            colorlessProb = round(mana[5] * 100)
-            otherProb = round(mana[6] * 100)
+            whiteProb = round(mana[0] * total)
+            redProb = round(mana[1] * total)
+            blackProb = round(mana[2] * total)
+            blueProb = round(mana[3] * total)
+            greenProb = round(mana[4] * total)
+            colorlessProb = round(mana[5] * total)
+            otherProb = round(mana[6] * total)
             
-            print(redProb + other)
+            ##print(redProb + other)
            
             
             first = whiteProb
@@ -174,16 +173,20 @@ def calcAverageLands(numTurns):
     
     
             
-    AverageWhite /= 1000
-    AverageRed /= 1000
-    AverageBlack /= 1000
-    AverageBlue /= 1000
-    AverageGreen /= 1000
-    AverageColorless /= 1000
+    AverageWhite /= numIterations
+    AverageRed /= numIterations
+    AverageBlack /= numIterations
+    AverageBlue /= numIterations
+    AverageGreen /= numIterations
+    AverageColorless /= numIterations
     
     
-    
-    print("Your Average Number of Mountains avaliable in " + str(numTurns) + " turns is " + str(AverageRed))   
+    print("Your Average Amount of White Mana avaliable in " + str(numTurns) + " turns is " + str(AverageWhite))
+    print("Your Average Amount of Red Mana avaliable in " + str(numTurns) + " turns is " + str(AverageRed))   
+    print("Your Average Amount of Black Mana avaliable in " + str(numTurns) + " turns is " + str(AverageBlack)) 
+    print("Your Average Amount of Blue Mana avaliable in " + str(numTurns) + " turns is " + str(AverageBlue)) 
+    print("Your Average Amount of Green Mana avaliable in " + str(numTurns) + " turns is " + str(AverageGreen)) 
+    print("Your Average Amount of Colorless Mana avaliable in " + str(numTurns) + " turns is " + str(AverageColorless)) 
         
         
         
